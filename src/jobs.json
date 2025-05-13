@@ -1,0 +1,83 @@
+[
+    {
+      "id": 1,
+      "title": "Frontend Developer",
+      "company": "IBM",
+      "location": "Ahmedabad",
+      "category": "Finance",
+      "description": "Design and implement user interfaces using HTML, CSS, and JavaScript frameworks. Collaborate with backend developers and designers to create seamless experiences."
+    },
+    {
+      "id": 2,
+      "title": "React Developer",
+      "company": "Infosys",
+      "location": "Noida",
+      "category": "IT",
+      "description": "Build and maintain scalable React applications. Work closely with financial analysts to deliver efficient and interactive dashboards and tools."
+    },
+    {
+      "id": 3,
+      "title": "DevOps Engineer",
+      "company": "Flipkart",
+      "location": "Mumbai",
+      "category": "Design",
+      "description": "Manage CI/CD pipelines, automate deployments, and monitor systems. Support marketing teams by ensuring uptime and performance of campaign platforms."
+    },
+    {
+      "id": 4,
+      "title": "Project Manager",
+      "company": "Adobe",
+      "location": "Remote",
+      "category": "Design",
+      "description": "Lead cross-functional teams, manage project timelines, and deliver sales enablement tools on time. Ensure alignment with strategic sales goals."
+    },
+    {
+      "id": 5,
+      "title": "UI/UX Designer",
+      "company": "Amazon",
+      "location": "Chennai",
+      "category": "Marketing",
+      "description": "Design intuitive user experiences and appealing interfaces. Work with marketing and product teams to enhance customer engagement."
+    },
+    {
+        "id": 6,
+        "title": "Backend Developer",
+        "company": "Microsoft",
+        "location": "Hyderabad",
+        "category": "IT",
+        "description": "Develop scalable backend APIs and services using .NET Core. Collaborate with frontend teams to integrate user-facing elements."
+      },
+      {
+        "id": 7,
+        "title": "Data Analyst",
+        "company": "TCS",
+        "location": "Pune",
+        "category": "Finance",
+        "description": "Analyze complex datasets to generate actionable insights. Support business strategy by building reports and dashboards in Power BI."
+      },
+      {
+        "id": 8,
+        "title": "Mobile App Developer",
+        "company": "Zomato",
+        "location": "Bengaluru",
+        "category": "IT",
+        "description": "Design and build advanced applications for Android and iOS. Work with product and design teams to define app features and UX."
+      },
+      {
+        "id": 9,
+        "title": "QA Engineer",
+        "company": "Capgemini",
+        "location": "Kolkata",
+        "category": "IT",
+        "description": "Create and execute test plans and cases. Work closely with developers to debug and resolve issues in web and mobile apps."
+      },
+      {
+        "id": 10,
+        "title": "Digital Marketing Executive",
+        "company": "Nykaa",
+        "location": "Delhi",
+        "category": "Marketing",
+        "description": "Plan and execute digital campaigns across social media and search engines. Analyze performance metrics to optimize campaigns."
+      }
+  ]
+  

@@ -51,9 +51,9 @@ function App() {
 
   function handleToggle(e){
    if(e.target.checked){
-    document.querySelector('.nm-main').style.backgroundColor= 'black'
+    document.querySelector('body').style.backgroundColor= 'black'
    }else{
-    document.querySelector('.nm-main').style.backgroundColor= 'beige'
+    document.querySelector('body').style.backgroundColor= 'beige'
 
    }
   }
@@ -86,6 +86,7 @@ function App() {
         </div>
 
       </div>
+    {  filtered.length?
       <div className="app-container">
 
         <div className="job-list">
@@ -100,7 +101,7 @@ function App() {
             <p style={{ padding: '20px' }}>Click on a job to view details</p>
           )}
         </div>
-      </div>
+      </div> : <div className="No-job-card">Data Not Found</div>}
     </div>
   );
 

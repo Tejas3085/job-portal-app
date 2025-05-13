@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/job-portal-app/static/css/main.4ee059c4.css",
-    "main.js": "/job-portal-app/static/js/main.9a465806.js",
+    "main.css": "/job-portal-app/static/css/main.c904fe03.css",
+    "main.js": "/job-portal-app/static/js/main.3127dec8.js",
     "index.html": "/job-portal-app/index.html",
-    "main.4ee059c4.css.map": "/job-portal-app/static/css/main.4ee059c4.css.map",
-    "main.9a465806.js.map": "/job-portal-app/static/js/main.9a465806.js.map"
+    "main.c904fe03.css.map": "/job-portal-app/static/css/main.c904fe03.css.map",
+    "main.3127dec8.js.map": "/job-portal-app/static/js/main.3127dec8.js.map"
   },
   "entrypoints": [
-    "static/css/main.4ee059c4.css",
-    "static/js/main.9a465806.js"
+    "static/css/main.c904fe03.css",
+    "static/js/main.3127dec8.js"
   ]
 }
